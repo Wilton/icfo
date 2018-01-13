@@ -1,0 +1,186 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+html	/home/junior/www/icfo/icfo.html	/^<html lang="en">$/;"	function	line:2
+head	/home/junior/www/icfo/icfo.html	/^<head>$/;"	function	line:4
+meta	/home/junior/www/icfo/icfo.html	/^    <meta charset="utf-8">$/;"	function	line:5
+meta	/home/junior/www/icfo/icfo.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:6
+meta	/home/junior/www/icfo/icfo.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:7
+meta	/home/junior/www/icfo/icfo.html	/^    <meta name="description" content="">$/;"	function	line:9
+meta	/home/junior/www/icfo/icfo.html	/^    <meta name="author" content="">$/;"	function	line:10
+link	/home/junior/www/icfo/icfo.html	/^    <link rel="icon" href="..\/..\/favicon.ico">$/;"	function	line:11
+title	/home/junior/www/icfo/icfo.html	/^    <title>ICFO - Igreja Crist&atilde; F&eacute; e Obras<\/title>$/;"	function	line:13
+link	/home/junior/www/icfo/icfo.html	/^    <link href="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:16
+link	/home/junior/www/icfo/icfo.html	/^    <link href="..\/..\/dist\/css\/bootstrap-theme.min.css" rel="stylesheet">$/;"	function	line:18
+link	/home/junior/www/icfo/icfo.html	/^    <link href="..\/..\/assets\/css\/ie10-viewport-bug-workaround.css" rel="stylesheet">$/;"	function	line:20
+link	/home/junior/www/icfo/icfo.html	/^    <link href="theme.css" rel="stylesheet">$/;"	function	line:23
+style	/home/junior/www/icfo/icfo.html	/^    <style>$/;"	function	line:24
+script	/home/junior/www/icfo/icfo.html	/^    <script src="..\/..\/assets\/js\/ie-emulation-modes-warning.js"><\/script>$/;"	function	line:55
+script	/home/junior/www/icfo/icfo.html	/^      <script src="https:\/\/oss.maxcdn.com\/html5shiv\/3.7.3\/html5shiv.min.js"><\/script>$/;"	function	line:59
+script	/home/junior/www/icfo/icfo.html	/^      <script src="https:\/\/oss.maxcdn.com\/respond\/1.4.2\/respond.min.js"><\/script>$/;"	function	line:60
+body	/home/junior/www/icfo/icfo.html	/^<body>$/;"	function	line:64
+nav	/home/junior/www/icfo/icfo.html	/^    <nav class="navbar navbar-inverse">$/;"	function	line:67
+div	/home/junior/www/icfo/icfo.html	/^        <div class="container">$/;"	function	line:68
+div	/home/junior/www/icfo/icfo.html	/^            <div class="navbar-header">$/;"	function	line:69
+button	/home/junior/www/icfo/icfo.html	/^                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">$/;"	function	line:70
+span	/home/junior/www/icfo/icfo.html	/^            <span class="sr-only">Toggle navigation<\/span>$/;"	function	line:71
+span	/home/junior/www/icfo/icfo.html	/^            <span class="icon-bar"><\/span>$/;"	function	line:72
+span	/home/junior/www/icfo/icfo.html	/^            <span class="icon-bar"><\/span>$/;"	function	line:73
+span	/home/junior/www/icfo/icfo.html	/^            <span class="icon-bar"><\/span>$/;"	function	line:74
+a	/home/junior/www/icfo/icfo.html	/^                <a class="navbar-brand" href="#">Bootstrap theme<\/a>$/;"	function	line:76
+div	/home/junior/www/icfo/icfo.html	/^            <div id="navbar" class="navbar-collapse collapse">$/;"	function	line:78
+ul	/home/junior/www/icfo/icfo.html	/^                <ul class="nav navbar-nav">$/;"	function	line:79
+li	/home/junior/www/icfo/icfo.html	/^                    <li class="dropdown">$/;"	function	line:80
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Igreja <span class="caret"><\/span><\/a>$/;"	function	line:81
+ul	/home/junior/www/icfo/icfo.html	/^                        <ul class="dropdown-menu">$/;"	function	line:82
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">História<\/a><\/li>$/;"	function	line:83
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Pastoral<\/a><\/li>$/;"	function	line:84
+li	/home/junior/www/icfo/icfo.html	/^                    <li class="dropdown">$/;"	function	line:87
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ministérios <span class="caret"><\/span><\/a>$/;"	function	line:88
+ul	/home/junior/www/icfo/icfo.html	/^                        <ul class="dropdown-menu">$/;"	function	line:89
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Ensino e Doutrina<\/a><\/li>$/;"	function	line:90
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Ide<\/a><\/li>$/;"	function	line:91
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Louvor e Adora&ccedil;&atilde;o<\/a><\/li>$/;"	function	line:92
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Ora&ccedil;&atilde;o<\/a><\/li>$/;"	function	line:93
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Intercess&atilde;o<\/a><\/li>$/;"	function	line:94
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Fam&iacute;lia<\/a><\/li>$/;"	function	line:95
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Mulheres<\/a><\/li>$/;"	function	line:96
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Homens<\/a><\/li>$/;"	function	line:97
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Jovens<\/a><\/li>$/;"	function	line:98
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Adolescentes<\/a><\/li>$/;"	function	line:99
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Infantil<\/a><\/li>$/;"	function	line:100
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#!">Acolhimento<\/a><\/li>$/;"	function	line:101
+li	/home/junior/www/icfo/icfo.html	/^                    <li class="dropdown">$/;"	function	line:104
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Comunicação <span class="caret"><\/span><\/a>$/;"	function	line:105
+ul	/home/junior/www/icfo/icfo.html	/^                        <ul class="dropdown-menu">$/;"	function	line:106
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Notícias<\/a><\/li>$/;"	function	line:107
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Fotos<\/a><\/li>$/;"	function	line:108
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Vídeos<\/a><\/li>$/;"	function	line:109
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Boletim<\/a><\/li>$/;"	function	line:110
+li	/home/junior/www/icfo/icfo.html	/^                    <li><a href="#contact">Agenda<\/a><\/li>$/;"	function	line:113
+li	/home/junior/www/icfo/icfo.html	/^                    <li class="dropdown">$/;"	function	line:114
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contato <span class="caret"><\/span><\/a>$/;"	function	line:115
+ul	/home/junior/www/icfo/icfo.html	/^                        <ul class="dropdown-menu">$/;"	function	line:116
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Fale conosco<\/a><\/li>$/;"	function	line:117
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Onde estamos<\/a><\/li>$/;"	function	line:118
+li	/home/junior/www/icfo/icfo.html	/^                            <li><a href="#">Pedido de oração<\/a><\/li>$/;"	function	line:119
+div	/home/junior/www/icfo/icfo.html	/^    <div class="container theme-showcase" role="main">$/;"	function	line:128
+div	/home/junior/www/icfo/icfo.html	/^        <div class="row">$/;"	function	line:129
+div	/home/junior/www/icfo/icfo.html	/^            <div class="col-md-8">$/;"	function	line:130
+div	/home/junior/www/icfo/icfo.html	/^                <div class="row">$/;"	function	line:131
+div	/home/junior/www/icfo/icfo.html	/^                  <div class="col-md-12">$/;"	function	line:132
+div	/home/junior/www/icfo/icfo.html	/^                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">$/;"	function	line:133
+ol	/home/junior/www/icfo/icfo.html	/^                    <ol class="carousel-indicators">$/;"	function	line:135
+li	/home/junior/www/icfo/icfo.html	/^                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"><\/li>$/;"	function	line:136
+li	/home/junior/www/icfo/icfo.html	/^                        <li data-target="#carousel-example-generic" data-slide-to="1"><\/li>$/;"	function	line:137
+li	/home/junior/www/icfo/icfo.html	/^                        <li data-target="#carousel-example-generic" data-slide-to="2"><\/li>$/;"	function	line:138
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="carousel-inner" role="listbox">$/;"	function	line:142
+div	/home/junior/www/icfo/icfo.html	/^                        <div class="item active">$/;"	function	line:143
+img	/home/junior/www/icfo/icfo.html	/^                            <img src="http:\/\/lorempixel.com\/580\/250\/nature\/1">$/;"	function	line:144
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="carousel-caption">$/;"	function	line:146
+div	/home/junior/www/icfo/icfo.html	/^                        <div class="item">$/;"	function	line:150
+img	/home/junior/www/icfo/icfo.html	/^                            <img src="http:\/\/lorempixel.com\/580\/250\/nature\/2">$/;"	function	line:151
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="carousel-caption">$/;"	function	line:153
+a	/home/junior/www/icfo/icfo.html	/^                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">$/;"	function	line:161
+span	/home/junior/www/icfo/icfo.html	/^                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><\/span>$/;"	function	line:162
+span	/home/junior/www/icfo/icfo.html	/^                        <span class="sr-only">Anterior<\/span>$/;"	function	line:163
+a	/home/junior/www/icfo/icfo.html	/^                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">$/;"	function	line:165
+span	/home/junior/www/icfo/icfo.html	/^                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><\/span>$/;"	function	line:166
+span	/home/junior/www/icfo/icfo.html	/^                        <span class="sr-only">P&oacute;ximo<\/span>$/;"	function	line:167
+div	/home/junior/www/icfo/icfo.html	/^                <div class="row">$/;"	function	line:172
+div	/home/junior/www/icfo/icfo.html	/^                  <div class="col-md-12">$/;"	function	line:173
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="panel panel-default">$/;"	function	line:174
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-heading">Destaques<\/div>$/;"	function	line:175
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-body">$/;"	function	line:176
+div	/home/junior/www/icfo/icfo.html	/^                        <div class="row">$/;"	function	line:177
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:178
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-primary">$/;"	function	line:179
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Minist&eacute;rio de Fam&iacute;lia<\/div>$/;"	function	line:180
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:181
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:184
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:187
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-success">$/;"	function	line:188
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Escola B&iacute;blica Dominical<\/div>$/;"	function	line:189
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:190
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:193
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:196
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-info">$/;"	function	line:197
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Minist&eacute;rio Infantil<\/div>$/;"	function	line:198
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:199
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:202
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:205
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-warning">$/;"	function	line:206
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Minist&eacute;rio de Mulheres<\/div>$/;"	function	line:207
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:208
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:211
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:214
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-danger">$/;"	function	line:215
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Pequenos grupos<\/div>$/;"	function	line:216
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:217
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:220
+div	/home/junior/www/icfo/icfo.html	/^                          <div class="col-md-4">$/;"	function	line:223
+div	/home/junior/www/icfo/icfo.html	/^                            <div class="panel panel-default">$/;"	function	line:224
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-heading">Miss&otilde;es<\/div>$/;"	function	line:225
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-body">$/;"	function	line:226
+div	/home/junior/www/icfo/icfo.html	/^                              <div class="panel-footer"><a href="#" class="btn btn-link">Saiba mais<\/a><\/div>$/;"	function	line:229
+div	/home/junior/www/icfo/icfo.html	/^                <div class="row">$/;"	function	line:237
+div	/home/junior/www/icfo/icfo.html	/^                  <div class="col-md-6">$/;"	function	line:238
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="panel panel-default">$/;"	function	line:239
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-heading">Boletins<\/div>$/;"	function	line:240
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-body">$/;"	function	line:241
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#!">Acesse os Boletins Semanais<\/a>$/;"	function	line:243
+div	/home/junior/www/icfo/icfo.html	/^                  <div class="col-md-6">$/;"	function	line:247
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="panel panel-default">$/;"	function	line:248
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-heading">Pedido de ora&ccedil;&atilde;o<\/div>$/;"	function	line:249
+div	/home/junior/www/icfo/icfo.html	/^                      <div class="panel-body">$/;"	function	line:250
+a	/home/junior/www/icfo/icfo.html	/^                        <a href="#!">Fa&ccedil;a seu pedido de ora&ccedil;&atilde;o<\/a>. Estaremos incluindo seu pedido em nossas reuni&otilde;es de ora&ccedil;&atilde;o.$/;"	function	line:251
+div	/home/junior/www/icfo/icfo.html	/^            <div class="col-md-4">$/;"	function	line:257
+div	/home/junior/www/icfo/icfo.html	/^                <div class="panel panel-default">$/;"	function	line:258
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="panel-heading">Notícias<\/div>$/;"	function	line:260
+ul	/home/junior/www/icfo/icfo.html	/^                    <ul class="list-group">$/;"	function	line:261
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item">Pronto para adorar sem limites?<\/li>$/;"	function	line:262
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item">Anivers&aacute;rio Batista Crist&atilde;: voc&ecirc; &eacute; nosso convidado!<\/li>$/;"	function	line:263
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item">Em maio, Bras&iacute;lia recebe Encontro Regional GFI 2016<\/li>$/;"	function	line:264
+div	/home/junior/www/icfo/icfo.html	/^                <div class="panel panel-default">$/;"	function	line:267
+div	/home/junior/www/icfo/icfo.html	/^                  <div class="panel-heading">Agenda<\/div>$/;"	function	line:269
+ul	/home/junior/www/icfo/icfo.html	/^                  <ul class="list-group">$/;"	function	line:270
+li	/home/junior/www/icfo/icfo.html	/^                      <li class="list-group-item">$/;"	function	line:271
+h	/home/junior/www/icfo/icfo.html	/^                          <h4>Culto nos lares<\/h4>$/;"	function	line:272
+p	/home/junior/www/icfo/icfo.html	/^                          <p>15 de Novembro Quinta-feira às 19:30<\/p>$/;"	function	line:273
+li	/home/junior/www/icfo/icfo.html	/^                      <li class="list-group-item">$/;"	function	line:275
+h	/home/junior/www/icfo/icfo.html	/^                          <h4>Culto de Mulheres<\/h4>$/;"	function	line:276
+p	/home/junior/www/icfo/icfo.html	/^                          <p>24 de Novembro Quinta-feira às 19:30<\/p>$/;"	function	line:277
+li	/home/junior/www/icfo/icfo.html	/^                      <li class="list-group-item">$/;"	function	line:279
+h	/home/junior/www/icfo/icfo.html	/^                          <h4 class="title">Santa Ceia<\/h4>$/;"	function	line:280
+p	/home/junior/www/icfo/icfo.html	/^                          <p>04 de Dezembro Quinta-feira às 19:30<\/p>$/;"	function	line:281
+li	/home/junior/www/icfo/icfo.html	/^                      <li class="list-group-item">$/;"	function	line:283
+h	/home/junior/www/icfo/icfo.html	/^                          <h4 class="title">Culto de Homens<\/h4>$/;"	function	line:284
+p	/home/junior/www/icfo/icfo.html	/^                          <p>20 de Dezembro Terça-feira às 19:30<\/p>$/;"	function	line:285
+li	/home/junior/www/icfo/icfo.html	/^                      <li class="list-group-item">$/;"	function	line:287
+h	/home/junior/www/icfo/icfo.html	/^                          <h4 class="title">Campanha<\/h4>$/;"	function	line:288
+p	/home/junior/www/icfo/icfo.html	/^                          <p>20 de Dezembro Terça-feira às 19:30<\/p>$/;"	function	line:289
+div	/home/junior/www/icfo/icfo.html	/^                <div class="panel panel-default">$/;"	function	line:293
+div	/home/junior/www/icfo/icfo.html	/^                    <div class="panel-heading">Mensagen<\/div>$/;"	function	line:295
+ul	/home/junior/www/icfo/icfo.html	/^                    <ul class="list-group">$/;"	function	line:296
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item"><a href="#!">Verdadeira Adora&ccedil;&atilde;o te levar&aacute; al&eacute;m!<\/a><\/li>$/;"	function	line:297
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item"><a href="#!">Nossas Escolhas<\/a><\/li>$/;"	function	line:298
+li	/home/junior/www/icfo/icfo.html	/^                        <li class="list-group-item"><a href="#!">Os sonhos de Deus ainda se cumprir&atilde;o em sua vida<\/a><\/li>$/;"	function	line:299
+div	/home/junior/www/icfo/icfo.html	/^    <div class="page-footer navbar-default">$/;"	function	line:307
+div	/home/junior/www/icfo/icfo.html	/^      <div class="container">$/;"	function	line:308
+div	/home/junior/www/icfo/icfo.html	/^        <div class="row">$/;"	function	line:309
+div	/home/junior/www/icfo/icfo.html	/^          <div class="col l6 s12">$/;"	function	line:310
+h	/home/junior/www/icfo/icfo.html	/^            <h5 class="white-text">Localiza&ccedil;&atilde;o<\/h5>$/;"	function	line:311
+p	/home/junior/www/icfo/icfo.html	/^            <p>SCRS 515 Sul Bloco A Loja 41 - Bras&iacute;lia\/DF - CEP 70.381-510 - (61) 3345-2505<\/p>$/;"	function	line:312
+p	/home/junior/www/icfo/icfo.html	/^            <p><a href="#!" class="btn btn-link">Ver no mapa<\/a><\/p>$/;"	function	line:313
+footer	/home/junior/www/icfo/icfo.html	/^    <footer class="navbar-default">$/;"	function	line:318
+div	/home/junior/www/icfo/icfo.html	/^      <div class="container">$/;"	function	line:319
+div	/home/junior/www/icfo/icfo.html	/^        <div class="row">$/;"	function	line:320
+span	/home/junior/www/icfo/icfo.html	/^          <span class="left-align">&copy; 2016 Copyright Igreja Crist&atilde; F&eacute; e Obras<\/span>$/;"	function	line:321
+script	/home/junior/www/icfo/icfo.html	/^    <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.12.4\/jquery.min.js"><\/script>$/;"	function	line:328
+script	/home/junior/www/icfo/icfo.html	/^    <script>$/;"	function	line:329
+script	/home/junior/www/icfo/icfo.html	/^    <script src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/js\/bootstrap.min.js"><\/script>$/;"	function	line:332
+script	/home/junior/www/icfo/icfo.html	/^    <script src="..\/..\/assets\/js\/docs.min.js"><\/script>$/;"	function	line:333
+script	/home/junior/www/icfo/icfo.html	/^    <script src="..\/..\/assets\/js\/ie10-viewport-bug-workaround.js"><\/script>$/;"	function	line:335
